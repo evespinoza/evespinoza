@@ -2,4 +2,4 @@
 - 🌱 I’m currently learning
 - 📫 How to reach me contacto@jesusespinoza.com
 - 🌐 https://jesusespinoza.com/
-- 🌐 evespinoza.github.io
+- 🌐 https://evespinoza.github.io/
